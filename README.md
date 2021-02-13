@@ -1,6 +1,6 @@
 # Astroseizmologija
 
-Vaja iz astroseizmologije za zimsko šolo FMF, marec 2021.
+Delavnica Astroseizmologija, zimska šola FMF, marec 2021.
 
 # Navodila
 
