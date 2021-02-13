@@ -16,7 +16,7 @@ Po nekaj časa se odpre stran s seznamom vseh datotek, ki so na voljo
 
 4. Klikni na datoteko `astroseizmologija.ipynb`.
 
-Odprejo se navodila prepletena s kodo. Celice s kodo moraš zagnati, da se izpisana koda res izvede. Pozor: nobene celice s kodo ne smeš preskočit. Zagnati moraš prav vse.
+Odprejo se navodila in razlaga prepletena s kodo. Celice s kodo moraš zagnati, da se izpisana koda res izvede. Pozor: nobene celice s kodo ne smeš preskočit. Zagnati moraš prav vse.
 
 5. Klikni na celico s kodo in pritisni `Shift` `Enter`. 
 
